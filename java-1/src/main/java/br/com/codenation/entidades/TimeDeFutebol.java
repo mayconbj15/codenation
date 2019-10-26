@@ -32,7 +32,7 @@ public class TimeDeFutebol {
         //fazer uma hash de jogadores
     }
 
-    public void adicionarJogador(JogadorDeFutebol novoJogador){
+    public void adicionarJogador(JogadorDeFutebol novoJogador) throws IdentificadorUtilizadoException {
         if(existeJogador(novoJogador.getId())){
             throw new IdentificadorUtilizadoException();
         }
@@ -69,7 +69,7 @@ public class TimeDeFutebol {
         return jogadorDeFutebol;
     }
 
-    public JogadorDeFutebol buscarCapitao(){
+    public JogadorDeFutebol buscarCapitao() throws CapitaoNaoInformadoException{
         if(capitao == null){
             throw new CapitaoNaoInformadoException();
         }

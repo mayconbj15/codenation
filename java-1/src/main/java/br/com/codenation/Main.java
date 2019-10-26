@@ -15,9 +15,6 @@ public class Main {
         main.incluirTime();
         main.incluirJogador();
         main.definirCapitao();
-
-
-
     }
 
     public void incluirTime(){

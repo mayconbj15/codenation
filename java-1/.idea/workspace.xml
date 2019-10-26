@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3467e935-535c-4bab-95a1-e7f001f671b5" name="Default Changelist" comment="" />
+    <list default="true" id="3467e935-535c-4bab-95a1-e7f001f671b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/java-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java-1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/codenation/DesafioMeuTimeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/codenation/DesafioMeuTimeApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/codenation/JogadoresTimes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/codenation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/codenation/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/codenation/entidades/TimeDeFutebol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/codenation/entidades/TimeDeFutebol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/codenation/gerenciadoras/GerenciadorTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/codenation/gerenciadoras/GerenciadorTime.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +36,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -97,17 +106,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/br/com/codenation/Main.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/br/com/codenation/Main.java</url>
-          <line>41</line>
+          <line>38</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/br/com/codenation/Main.java</url>
-          <line>46</line>
+          <line>43</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>

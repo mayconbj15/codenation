@@ -23,7 +23,7 @@ public class GerenciadorTime {
 
     public static TimeDeFutebol buscarTime(Long idTime) {
         TimeDeFutebol timeDeFutebol = null;
-
+        
         for(int i = 0; timeDeFutebol == null && i < timesDeFutebol.size(); i++){
             if(timesDeFutebol.get(i).getId().equals(idTime))
                 timeDeFutebol = timesDeFutebol.get(i);
